@@ -52,6 +52,7 @@ notes: other notes
 (2) Coming soon to a dataset near you!
 
 **Key sources**: 
+
 Rallings, C.S., Thrasher, M.A.M. and Ware, L., **British Local Election Database, 1889-2003** [computer file]. Colchester, Essex: UK Data Archive [distributor], June 2006. SN: 5319, http://doi.org/10.5255/UKDA-SN-5319-1.
 
 Teale, A. (2021) **Local Elections Archive Project (LEAP)**, Available at: https://www.andrewteale.me.uk/leap/ (Accessed: constantly).
